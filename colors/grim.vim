@@ -11,6 +11,8 @@ if &background == "light"
   highlight Title          ctermfg=0 cterm=bold
   highlight Type           ctermfg=0
   highlight Underlined     cterm=underline ctermfg=0
+  highlight Function       ctermfg=0
+  highlight String         ctermfg=0
 else
   highlight Constant       ctermfg=7
   highlight Identifier     ctermfg=15
@@ -20,4 +22,6 @@ else
   highlight Title          ctermfg=15 cterm=bold
   highlight Type           ctermfg=15
   highlight Underlined     cterm=underline ctermfg=15
+  highlight Function       ctermfg=15
+  highlight String         ctermfg=15
 end

@@ -32,3 +32,5 @@ highlight Underlined     cterm=underline ctermfg=5
 highlight Ignore         ctermfg=15
 highlight Error          ctermfg=15 ctermbg=9
 highlight Todo           ctermfg=0 ctermbg=11
+highlight Function       ctermfg=6
+highlight String         ctermfg=1
